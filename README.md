@@ -1,8 +1,8 @@
 # Steganography in MIDI files
 
-Steganography is dealing with the study and application of techniques that allow hiding messages or objects, inside others, called carriers, so that their existence is not perceived.
+Steganography is dealing with the study and application of techniques that allow hiding messages or objects, inside others, called carriers, so that their existence is not perceived. This script is for academic purposes.
 
-This script is for academic purposes that hide messages inside of MIDI files. MIDI files have events, most of them can be heard, but someones only are used to control configurations in the device. This script abuse the message "Program Change"  to hide a short note in the MIDI file.
+This program hide messages inside of MIDI files. MIDI files have events, most of them can be heard, but someones only are used to control configurations in the device. This script abuse the message "Program Change"  to hide a short note in the MIDI file.
 
 ## Dependencies
 
