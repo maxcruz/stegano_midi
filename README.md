@@ -39,7 +39,7 @@ stegano-midi.py --reveal --file=pachelbel_canon.mid
 
 Forget parameter reveal the message and remove it from the file
 
-## Licencia
+## License
 ```
 The MIT License (MIT)
 
